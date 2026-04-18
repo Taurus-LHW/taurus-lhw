@@ -20,7 +20,10 @@ I am a cross-disciplinary developer with a deep background in **Human Resources 
 
 ### ❤️ Support & Contact
 If my tools have saved you time, consider fueling my coding sessions! 
-[![Buy Me A Coffee](https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png)](https://buymeacoffee.com/taurus.lhw)
+
+<a href="https://buymeacoffee.com/taurus.lhw">
+  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="200">
+</a>
 
 ---
 
@@ -36,6 +39,9 @@ If my tools have saved you time, consider fueling my coding sessions!
 
 ### ❤️ 聯絡與支持
 如果我的開源工具對你有幫助，歡迎請我喝杯咖啡，讓我能持續開發出更好的作品！
-[![Buy Me A Coffee](https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png)](https://buymeacoffee.com/taurus.lhw)
+
+<a href="https://buymeacoffee.com/taurus.lhw">
+  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="200">
+</a>
 
 <br>
